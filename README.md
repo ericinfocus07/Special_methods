@@ -1,6 +1,6 @@
 # Inheritance UMaT Management System
 
-** Overview **
+
 This project demonstrates the concept of inheritance in Python using a simple UMaT Management System. It models different types of people on campus by creating a parent class and child classes.
 
 ## Features
